@@ -9,7 +9,7 @@
 #     Input Type: single
 #     Required: true
 #     Advanced: false
-#     Default: text:https://raw.githubusercontent.com/dfrankel33/rs-st/master/Linux_Ansible_Client/attachments/apache.yml
+#     Default: text:https://raw.githubusercontent.com/dfrankel33/rs-st/master/Linux_Ansible_Client/attachments/hello_world.yml
 # Attachments: []
 # ...
 
